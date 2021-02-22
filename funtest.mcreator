@@ -1,0 +1,78 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "CoalPickaxe",
+      "type": "tool",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coal_pickaxe"
+    },
+    {
+      "name": "CoalPickaxeR",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coal_pickaxe_r"
+    },
+    {
+      "name": "CoalAxe",
+      "type": "tool",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coal_axe"
+    },
+    {
+      "name": "CoalAxeR",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coal_axe_r"
+    },
+    {
+      "name": "MoltenCoal",
+      "type": "fluid",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "molten_coal"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.funtest.molten_coal_bucket": "MoltenCoal Bucket",
+      "item.funtest.coal_pickaxe": "Coal Pickaxe",
+      "fluid.molten_coal": "MoltenCoal",
+      "item.funtest.coal_axe": "Coal Axe"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "funtest",
+    "modName": "Fun-Test",
+    "version": "1.0.0",
+    "author": "44795, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.funtest",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}
